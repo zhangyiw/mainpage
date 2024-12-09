@@ -29,11 +29,11 @@ export default {
 
 		let html = `<!DOCTYPE html>
 		<head>
-			<title> Geolocation: Hello World </title>
+			<title> My MainPage: </title>
 			<style> ${html_style} </style>
 		</head>
 		<body>
-			<h1>Geolocation: Hello World!</h1>
+			<h1>My Geolocation:</h1>
 			<p>You now have access to geolocation data about where your user is visiting from.</p>
 			${html_content}
 		</body>`;
